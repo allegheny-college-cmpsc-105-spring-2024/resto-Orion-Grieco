@@ -7,22 +7,17 @@ title: "about"
 # Villa Borghese
 
 
-## <span style="color:green">About Us</span>
+## <span style="color:teal">About Us</span>
 
 >After opening our doors in 1925, we only had one mission; bring smiles to the families that walked through our doors. For nearly a century, we've prided ourselves on
 >on using the most premier and highest-quality ingredients, some of which is even grown in our own gardens, with the rest being purchased from local farms. So far, we've never stopped short of producing Michelin-star quality dishes,
 >and we've been rated #1 in Rome for almost 70 years in a row since 1955!
->key data insights using visual techniques. Students also apply open-source programming language to
->discover patterns in the data, test hypotheses, and check assumptions using graphical representations.
->During a weekly laboratory session, students employ cutting-edge software tools to complete projects,>reporting on their results through both written documents and oral presentations. Students are invited
->to use their own departmentally approved laptop in this course; a limited number of laptops are
->available for use during class and lab sessions.
 
 _Prerequisite:_ None
 
 DR tag rationale: This course will primarily focus on methods of data collection, foundational data analysis of numerical data, and visualizations of such data. Additionally, students will participate in the scientific process during the exploratory data analysis and apply scientific reasoning to analyze and synthesize data.
 
-## <span style="color:green">Learning Outcomes</span>
+## <span style="color:teal">Learning Outcomes</span>
 
 - Develop hypotheses based on motivating problems and/or observations and identify appropriate data to address hypotheses.
 - Identify and describe key elements in different types of data visualizations.
