@@ -2,7 +2,7 @@
 layout: post
 title: "about"
 ---
-<body style="background-image: url('assets/images/6daf8e9429c641384524e24eb830b37b-Villa Borghese Garden.jpg');">
+<body style="background-image: url('assets/images/row-boats-on-lake-in-villa-borghese-in-rome.webp');">
 
 # Villa Borghese
 
