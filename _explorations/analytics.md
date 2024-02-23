@@ -4,6 +4,9 @@ title: "Analytics"
 permalink: explorations/analytics
 nav: true
 ---
+![homestats](assets/images/homestats.png)
+
+![globalstats](assets/images/globalstats.png)
 
 TODO: Look at your analytics data. Write about the
 different sources of data contributing to the analytics automatic dashboards.
