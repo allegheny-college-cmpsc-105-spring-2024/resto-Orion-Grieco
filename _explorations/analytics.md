@@ -4,9 +4,9 @@ title: "Analytics"
 permalink: explorations/analytics
 nav: true
 ---
-![homestats](assets/images/homestats.png)
+![homestats](./assets/images/homestats.png)
 
-![globalstats](assets/images/globalstats.png)
+![globalstats](./assets/images/globalstats.png)
 
 - There are a grand variety or sources from which the data is derived. There is geographic data pertainin  o the location in which the users are based, as well as what pages are visited by who, and how frequently. There is also data of how many users utilize the site, and which/how many of those users are unique or new.
 
