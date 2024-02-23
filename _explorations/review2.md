@@ -5,6 +5,7 @@ title: "Manasvi Bantawa (Cafe Coku)"
 permalink: explorations/review2
 nav: true
 ---
+[Cafe Coku](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-ManasviBantawa/)
 
 - After reviewing the menu of Cafe Coku, I can say at the least they have an expansive menu (all of two items). The fish and chips combo is a little egotistical (being it was made by Gordon Ramsay), but it still is a delicious dish nonetheless. The Eggs Benedict-Cumberbatch was also a very well-made dish, and one I certainly savored. If anyone's curious, the recipe for the Eggs Benedict.
 

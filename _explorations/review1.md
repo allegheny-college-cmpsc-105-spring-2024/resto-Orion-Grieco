@@ -4,6 +4,7 @@ title: "Naboni (Habesha Delights)"
 permalink: explorations/review1
 nav: true
 ---
+[Habesha Delights](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-naboni07/)
 
 - After having eaten at Habesha Delights, I can say I am quite impressed. The richness of the Kitfo is remarkable; nothing I've eaten has come close. In fact, I've come up with a recipe in an attempt to re-create the godliness I've experienced today.
 
