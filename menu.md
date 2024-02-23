@@ -5,17 +5,11 @@ permalink: /menu
 nav: true
 ---
 
-## menu
+## Menu
 
-this is the menu
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
+#### Cacio e Pepe
 
-### menu item 1
-
-#### lettuce
-
-- price: $100
-
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+- price: $24.75 USD
+  - Made with fresh Pecorino Romano imported from Italy, as well as the highest quality bucatini, black pepper and butter, this dish is sure to satisfy your craving for Italian nostalgia!
+![Cacio-e-Pepe](assets/images/Cacio-e-Pepe.webp){:width="200"}
