@@ -4,10 +4,6 @@ title: Menu
 permalink: /menu
 nav: true
 ---
-
-## Menu
-
-
 #### Cacio e Pepe
 
 - price: $24.75 USD
