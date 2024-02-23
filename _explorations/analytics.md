@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Analytics"
-permalink: Reviews/analytics
+permalink: explorations/analytics
 nav: true
 ---
 
