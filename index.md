@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Benvenutto!"
+title: <span style="color:teal">About Us</span>
 ---
 
 ![](assets/images/row-boats-on-lake-in-villa-borghese-in-rome.webp)
