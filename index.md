@@ -2,10 +2,9 @@
 layout: post
 title: "about"
 ---
-<body style="background-image: url('assets/images/row-boats-on-lake-in-villa-borghese-in-rome.webp');">
 
 # Villa Borghese
-
+![Villa-Borghese](assets/images/row-boats-on-lake-in-villa-borghese-in-rome.webp)
 
 ## <span style="color:teal">About Us</span>
 
@@ -42,4 +41,3 @@ towards the exploration of natural, physical, behavioral, or social phenomena.
 *Learning Outcome*: Students who successfully complete this requirement will demonstrate
 an understanding of how to interpret numeric data and/or their graphical or symbolic
 representations.
-</body>
