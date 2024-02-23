@@ -3,7 +3,6 @@ layout: post
 title: "Benvenutto!"
 ---
 
-# Villa Borghese
 ![](assets/images/row-boats-on-lake-in-villa-borghese-in-rome.webp)
 
 ## <span style="color:teal">About Us</span>
