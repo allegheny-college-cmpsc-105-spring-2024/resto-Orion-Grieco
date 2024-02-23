@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Benvenutto!"
 ---
 
 # Villa Borghese
