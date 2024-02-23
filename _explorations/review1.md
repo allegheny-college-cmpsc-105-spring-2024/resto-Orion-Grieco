@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Celica Cocca (Café Cocca)"
-permalink: explorations/review1
+permalink: Reviews/review1
 nav: true
 ---
 
