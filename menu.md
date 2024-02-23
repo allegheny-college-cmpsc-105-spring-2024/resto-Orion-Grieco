@@ -16,7 +16,3 @@ nav: true
 - price: 15.00 USD
   - This pastry is nothing short of a mind-shattering delicacy. With it's conch-like shape, and rows upon rows of flaky pastry encasing a delicious sweet cream, this truly is something that cannot be passed up.
 ![Sfogliatelle](assets/images/sfogliatelle.webp)
-
-## Reviews:
-- *I get it now... - Danny Devito*
-- *Get out of my head man, no way these Sfogliatelle are this good, get out of my head! - DJ Spit*
